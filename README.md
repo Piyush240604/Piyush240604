@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **piyushprakashwakpaijan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hXzTr9aMs6k_576_7cEz9ceRnwEu-er5/view?usp=drive_link](https://drive.google.com/file/d/1hXzTr9aMs6k_576_7cEz9ceRnwEu-er5/view?usp=drive_link)
+- 📄 Know about my experiences [Heres my Resume!](https://drive.google.com/file/d/1hXzTr9aMs6k_576_7cEz9ceRnwEu-er5/view?usp=drive_link)
 
 - ⚡ Fun fact **I bake without an Oven. And its not because of a skill issue**
 
