@@ -43,9 +43,5 @@
   </picture>
 </div>
   
-![3D Contributions](profile-3d-contrib/profile-night-green.svg)
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-sheoran&theme=radical" alt="GitHub Streak" />
-</div>
+![3D Contributions](profile-3d-contrib/profile-night-view.svg)
 
