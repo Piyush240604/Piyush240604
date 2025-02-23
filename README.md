@@ -8,7 +8,7 @@
 </h1>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Trainify: AI Powered Fitness Trainer](https://github.com/Piyush240604/Trainify-A-Virtual-AI-Trainer)<br><br>- 🌱 I’m currently learning **Rust, Next.js**<br><br>- 👯 I’m looking to collaborate on [Google Clone](https://github.com/Piyush240604/Google-Clone)<br><br>- 💬 Ask me about **React-Native, Python**<br><br>- 📫 How to reach me **piyushprakashwakpaijan@gmail.com**<br><br>- 📄 Know about my experiences [Heres my Resume!](https://drive.google.com/file/d/1hXzTr9aMs6k_576_7cEz9ceRnwEu-er5/view?usp=drive_link)<br><br>- ⚡ Fun fact **I bake without an Oven. And its not because of a skill issue**
+- 🔭 I’m currently working on [Trainify: AI Powered Fitness Trainer](https://github.com/Piyush240604/Trainify-AI-Fitness-Trainer)<br><br>- 🌱 I’m currently learning **Rust, Next.js**<br><br>- 👯 I’m looking to collaborate on [Google Clone](https://github.com/Piyush240604/Google-Clone)<br><br>- 💬 Ask me about **React-Native, Python**<br><br>- 📫 How to reach me **piyushprakashwakpaijan@gmail.com**<br><br>- 📄 Know about my experiences [Heres my Resume!](https://drive.google.com/file/d/1hXzTr9aMs6k_576_7cEz9ceRnwEu-er5/view?usp=drive_link)<br><br>- ⚡ Fun fact **I bake without an Oven. And its not because of a skill issue**
 
 
 ## 🌐 Socials:
