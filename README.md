@@ -8,7 +8,7 @@
 </h1>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Trainify: AI Powered Fitness Trainer](https://github.com/Piyush240604/Trainify-AI-Fitness-Trainer)<br><br>- 🌱 I’m currently learning **Rust, Next.js**<br><br>- 👯 I’m looking to collaborate on [Google Clone](https://github.com/Piyush240604/Google-Clone)<br><br>- 💬 Ask me about **React-Native, Python**<br><br>- 📫 How to reach me **piyushprakashwakpaijan@gmail.com**<br><br>- 📄 Know about my experiences [Heres my Resume!](https://drive.google.com/file/d/1eiraxlz45_fPCZvErDaPLRpQ6XmvQF3Q/view?usp=sharing)<br><br>- ⚡ Fun fact **I bake without an Oven. And its not because of a skill issue**
+- 🔭 I’m currently working on [Trainify: AI Powered Fitness Trainer](https://github.com/Piyush240604/Trainify-AI-Fitness-Trainer)<br><br>- 🌱 I’m currently learning **Rust, Next.js**<br><br>- 👯 I’m looking to collaborate on [Google Clone](https://github.com/Piyush240604/Google-Clone)<br><br>- 💬 Ask me about **React-Native, Python**<br><br>- 📫 How to reach me **piyushprakashwakpaijan@gmail.com**<br><br>- 📄 Know about my experiences [Heres my Resume!](https://drive.google.com/file/d/1BTycs__CTuxhH6lGBHNnKEqUv2VYl6EJ/view?usp=sharing)<br><br>- ⚡ Fun fact **I bake without an Oven. And its not because of a skill issue**
 
 
 ## 🌐 Socials:
